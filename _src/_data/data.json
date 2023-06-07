@@ -1,0 +1,275 @@
+[
+    {
+        "name": "Bookstore",
+        "tags": [
+            "Inward-Focused",
+            "Outward-Focused"
+        ],
+        "description": "The Organization bookstore is a resource for members for Organization books and literature, as well as other gift items. An enjoyment of books and meeting people is desired. Once trained, volunteers are encouraged to sign up for 1–2 shifts per month on weekends and/or special events."
+    },
+    {
+        "name": "CARETAKERS",
+        "contains": [
+            {
+                "name": "Caretaker Committee",
+                "part of": "CARETAKERS",
+                "tags": [
+                    "Inward-Focused"
+                ],
+                "programs": [
+                    "Caretaker Fund"
+                ],
+                "description": "The Caretaker Committee manages the Caretaker Fund.\n\nThe Caretaker Fund is an officially recognized and designated permanent fund available to provide support to members of Organization who are struggling financially due to exceptional circumstances."
+            },
+            {
+                "name": "Reflections",
+                "part of": "CARETAKERS",
+                "tags": [
+                    "Inward-Focused",
+                    "Outward-Focused"
+                ],
+                "description": "",
+                "people": [
+                    "Jane Doe"
+                ]
+            }
+        ],
+        "description": "",
+        "people": [
+            "John Doe"
+        ]
+    },
+    {
+        "name": "COMMUNITY SUPPORT",
+        "contains": [
+            {
+                "name": "MARKETING",
+                "contains": [
+                    {
+                        "name": "Website & Social Media",
+                        "part of": "MARKETING",
+                        "tags": [
+                            "Outward-Focused",
+                            "Inward-Focused"
+                        ],
+                        "description": "The Website & Social Media Teams develop the Organization website and social media accounts.",
+                        "people": [
+                            "Numerius Negidius",
+                            "Jane Smith",
+                            "Aulus Agerius",
+                            "Jane Q. Public"
+                        ]
+                    }
+                ],
+                "part of": "COMMUNITY SUPPORT",
+                "tags": [
+                    "Inward-Focused",
+                    "Outward-Focused"
+                ],
+                "description": "Coordinates and communicates our message both internally and to the community. Responsibilities include our website, Facebook, Twitter, and all brochures, ads, signage, and mailings.",
+                "people": [
+                    "Elaine Benes",
+                    "Felicia Hardy",
+                    "Jane Q. Public",
+                    "Aulus Agerius",
+                    "Jane Smith"
+                ]
+            },
+            {
+                "name": "Community Service",
+                "part of": "COMMUNITY SUPPORT",
+                "tags": [
+                    "Outward-Focused"
+                ],
+                "programs": [
+                    "Food Bridge Program",
+                    "Back to School Supplies Program",
+                    "Organization Career Center",
+                    "9/11 Organization Walk"
+                ],
+                "description": "This department provides opportunities for our membership to contribute to the well-being of others locally and globally. The Community Service Team meets on the 4th weekend each month, and coordinates a number of outreach projects throughout the year. We look forward to your participation with our team as we answer the call to assist those in need.",
+                "people": [
+                    "Mandy Grim",
+                    "John Doe"
+                ]
+            },
+            {
+                "name": "GardenCare",
+                "part of": "COMMUNITY SUPPORT",
+                "tags": [
+                    "Inward-Focused",
+                    "Outward-Focused"
+                ],
+                "description": "The GardenCare department creates, coordinates, and implements activities that increase our environmental awareness and spiritual connection with all life. The team typically meets on the 2nd weekend of each month, and hosts hospitality each 3rd weekend after the morning event. They also provide volunteer time on Organization grounds or other areas of the campus that need assistance.",
+                "people": [
+                    "Jane Appleseed",
+                    "Autumn Flower",
+                    "Nancy Appletree",
+                    "Johnny Appleseed",
+                    "Pepin Adria",
+                    "Cecil Turtle"
+                ]
+            },
+            {
+                "name": "Information Technology ",
+                "part of": "COMMUNITY SUPPORT",
+                "tags": [
+                    "Inward-Focused",
+                    "Infrastructure"
+                ],
+                "description": "Calling all techies! Are you an IT professional or just technically inclined? We need more technical types to be on call to help the office staff with computer issues. Some projects we’ve completed: installed a cellular repeater on the roof, re-wired the network closet, upgraded WiFi access, and built a special purpose computer for the Live Streaming team.",
+                "people": [
+                    "Calvin Q. Calculus",
+                    "David Q. Derivative",
+                    "Numerius Negidius",
+                    "Agatha Christie",
+                    "Aulus Agerius"
+                ]
+            },
+            {
+                "name": "Social Justice",
+                "part of": "COMMUNITY SUPPORT",
+                "tags": [
+                    "Inward-Focused",
+                    "Outward-Focused"
+                ],
+                "description": "Organization has a long history of participation in social justice activities. The Social Justice Team (SJT) is planning new activities and projects whenever members express an interest and include a willingness to volunteer in leadership roles.\n\nThe Social Justice Team conducts discussions during relevant Organization Friday movie nights, provides facts related to social justice topics in the bulletin, and informs the Organization of speakers on Social justice.",
+                "people": [
+                    "Lana Boudica"
+                ]
+            }
+        ],
+        "description": "This department provides opportunities for our membership to contribute to the well-being of others locally and globally. The Community Service Team meets on the 4th weekend each month, and coordinates a number of outreach projects throughout the year. We look forward to your participation with our team as we answer the call to assist those in need."
+    },
+    {
+        "name": "Music & Arts",
+        "tags": [
+            "Inward-Focused",
+            "Outward-Focused"
+        ],
+        "description": "The Organization Chorus brings beautiful music to our events, holidays, and special events throughout the year. Music practices are Thursday evenings from 7:30 to 9 p.m.",
+        "people": [
+            "Jane Smith"
+        ]
+    },
+    {
+        "name": "Retreat",
+        "tags": [
+            "Inward-Focused"
+        ],
+        "description": "Our Retreat department creates and supports opportunities to “go apart for a while”, in inspirational settings beyond our campus. Retreats are offered at least two weekends a year. Department members’ service is intuitively directed and guided, and delivers meaningful retreat experiences for participants.",
+        "people": [
+            "Betty Rubble",
+            "Wilma Flintstone"
+        ]
+    },
+    {
+        "name": "The Council",
+        "tags": [
+            "Inward-Focused",
+            "Infrastructure"
+        ],
+        "description": "",
+        "people": [
+            "John Doe"
+        ]
+    },
+    {
+        "name": "Staff",
+        "tags": [
+            "Inward-Focused",
+            "Outward-Focused"
+        ],
+        "description": "",
+        "people": [
+            "John Doe",
+            "Mrs. Woof",
+            "Jane Smith",
+            "Agatha Christie",
+            "Aulus Agerius",
+            "MacGuyver"
+        ]
+    },
+    {
+        "name": "MEDIA SUPPORT",
+        "contains": [
+            {
+                "name": "AUDIO VISUAL",
+                "contains": [
+                    {
+                        "name": "Live Streams",
+                        "part of": "AUDIO VISUAL",
+                        "tags": [
+                            "Inward-Focused",
+                            "Outward-Focused"
+                        ],
+                        "description": "Operates the live streaming console during morning events to provide live access on our website.",
+                        "people": [
+                            "Piper Tom",
+                            "Mickey Dee",
+                            "Jane Q. Public",
+                            "Mrs. Woof"
+                        ]
+                    },
+                    {
+                        "name": "Sound",
+                        "part of": "AUDIO VISUAL",
+                        "tags": [
+                            "Inward-Focused"
+                        ],
+                        "description": "Staffs the sound booth during normal events as well as all official Organization functions, and records each event for sale.",
+                        "people": [
+                            "Zack Legomaniac",
+                            "Betty Rubble",
+                            "Joe Schmoe"
+                        ]
+                    },
+                    {
+                        "name": "Visual Projection",
+                        "part of": "AUDIO VISUAL",
+                        "tags": [
+                            "Inward-Focused"
+                        ],
+                        "description": "Operates the computer and video projectors during normal and special events.",
+                        "people": [
+                            "Zack Legomaniac",
+                            "Betty Rubble",
+                            "Joe Schmoe"
+                        ]
+                    }
+                ],
+                "part of": "MEDIA SUPPORT",
+                "tags": [
+                    "Inward-Focused"
+                ],
+                "description": "This team manages the sound board, PowerPoint presentations, and Live Streaming during normal and special events. Volunteers can be trained in one or all sub-teams."
+            },
+            {
+                "name": "Hospitality",
+                "part of": "MEDIA SUPPORT",
+                "tags": [
+                    "Inward-Focused"
+                ],
+                "description": "This team hosts the fellowship in the morning after both events and provides coffee, tea, and refreshments. Occasionally this service is extended to support special meetings."
+            },
+            {
+                "name": "Welcomers",
+                "part of": "MEDIA SUPPORT",
+                "tags": [
+                    "Inward-Focused"
+                ],
+                "description": "Our Welcomers Team provides first-time guests with an authentic ongoing experience of caring, fellowship, and the beginnings of a transformed life. Our ushers greet everyone, hand out monthly publications. They spend time with newcomers to show them around, answer their questions, and make sure they feel welcome.",
+                "people": [
+                    "Jane Appleseed",
+                    "Lana Boudica",
+                    "Autumn Flower",
+                    "Alvin Feather"
+                ]
+            }
+        ],
+        "tags": [
+            "Inward-Focused"
+        ],
+        "description": "MEDIA SUPPORT Teams ensure a smooth running service week after week."
+    }
+]

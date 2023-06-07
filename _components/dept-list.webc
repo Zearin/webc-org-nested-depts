@@ -1,0 +1,7 @@
+<ul class="dept-list">
+    <dept webc:for="d of depts"
+        :@name="d.name"
+        :@tags="d.tags"
+        :@depts="d.contains"
+    ></dept>
+</ul>

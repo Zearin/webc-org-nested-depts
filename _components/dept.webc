@@ -1,0 +1,8 @@
+<li class="dept">
+    <span class="name" @raw="name"></span>
+    <tag-list webc:if="tags" :@tags="tags"></tag-list>
+
+    <dept-list webc:if="depts"
+        :@depts="Array.from(depts)"
+    ></dept-list>
+</li>

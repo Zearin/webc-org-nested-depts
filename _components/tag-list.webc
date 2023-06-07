@@ -1,0 +1,3 @@
+<ul class="tag-list">
+    <li webc:for="tag of tags" @text="tag"></li>
+</ul>

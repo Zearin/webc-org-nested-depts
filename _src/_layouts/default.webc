@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8" />
+    <title>Organizational Structure</title>
+</head>
+<body>
+
+    <h1>Organizational Structure</h1>
+    <template webc:nokeep @raw="content"></template>
+
+</body>
+</html>
