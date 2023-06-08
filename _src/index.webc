@@ -1,4 +1,4 @@
 ---
 layout: "default.webc"
 ---
-<dept-list :@depts="$data.data"></sept-list>
+<dept-list :@depts="$data.data"></dept-list>
